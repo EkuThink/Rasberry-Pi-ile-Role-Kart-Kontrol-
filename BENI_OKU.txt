@@ -1,0 +1,7 @@
+Bir metin editörü yardımıyla dosyayı açıp "rolePin" değişkenini röle kartını bağladığınız GPIO pini numarasına göre değiştirin.
+
+Ssh ile sisteme bağlandıktan sonra dosyanın bulunduğu dizine gidip "python/python3 relay.py" komutunu terminalde çalıştırarak programı açın.
+
+"relay 1" komutunu kullanarak röleyi NC konumuna, "relay 0" Yazarak röleyi NO konumuna getirebilirsiniz.
+
+Programı kapatmak için "q" yazmanız yeterlidir.
