@@ -1,4 +1,4 @@
-Bir metin editörü yardımıyla dosyayı açıp "rolePin" değişkenini röle kartını bağladığınız GPIO pini numarasına göre değiştirin.
+Bir metin editörü yardımıyla "relay.py" dosyayı açıp "rolePin" değişkenini röle kartını bağladığınız GPIO pini numarasına göre değiştirin.
 
 Ssh ile sisteme bağlandıktan sonra dosyanın bulunduğu dizine gidip "python/python3 relay.py" komutunu terminalde çalıştırarak programı açın.
 
